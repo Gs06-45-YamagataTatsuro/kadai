@@ -1,0 +1,32 @@
+h1{
+    margin-left: 10%;
+    margin-bottom: 10px;
+}
+
+.form{
+    float: left;
+}
+
+#box{
+    float: right;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+#button{
+    margin-left: 80%;
+}
+
+.test{
+    float: right;
+    margin-bottom: 10px;
+}
+
+body{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    width: 400px;
+    height: 300px;
+    margin: -150px 0px 0px -200px;  幅と高さの半分のネガティブマージン 
+}
